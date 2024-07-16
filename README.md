@@ -4,15 +4,16 @@
 
 Available models:
 
-"InstVocHQ"  
-"BS-Roformer_1297"  
-"BS-Roformer_1296"  
-"BS-Roformer_1053"  
-"SCNet_MUSDB18"  
-"MelBandRoformer_Decrowd"  
-"VitLarge23"  
-"BandIt_Plus"  
-"MDX23C_DrumSep_6stem"  
+"InstVocHQ" (by Anjok, aufr33, ZFTurbo)  
+"BS-Roformer_1297" (by viperx)  
+"BS-Roformer_1296" (by viperx)  
+"BS-Roformer_1053" (by viperx)  
+"SCNet_MUSDB18" (by starrytong)  
+"MelBandRoformer_Decrowd" (by aufr33)  
+"VitLarge23" (by ZFTurbo)  
+"BandIt_Plus" (by kwatcharasupat)   
+"MDX23C_DrumSep_6stem" (by jarredou & aufr33)  
+"De-Reverb" (by anvuew)  
 
 
 <font size=1>*made by [jarredou](https://github.com/jarredou)*</font>
