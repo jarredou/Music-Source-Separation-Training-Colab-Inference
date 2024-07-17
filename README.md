@@ -4,14 +4,14 @@
 
 Available models:
 
-"InstVocHQ" (by Anjok, aufr33, ZFTurbo)  
+"MDX23C_InstVocHQ" (by Anjok, aufr33, ZFTurbo)  
 "BS-Roformer_1297" (by viperx)  
 "BS-Roformer_1296" (by viperx)  
 "BS-Roformer_1053" (by viperx)  
 "SCNet_MUSDB18" (by starrytong)  
-"MelBandRoformer_Decrowd" (by aufr33)  
+"MelBand-Roformer_Decrowd" (by aufr33)  
 "VitLarge23" (by ZFTurbo)  
 "BandIt_Plus" (by kwatcharasupat)   
 "MDX23C_DrumSep_6stem" (by jarredou & aufr33)  
-"De-Reverb" (by anvuew)  
+"BS-Roformer_De-Reverb" (by anvuew)  
 
