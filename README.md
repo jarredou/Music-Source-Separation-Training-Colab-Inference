@@ -15,5 +15,3 @@ Available models:
 "MDX23C_DrumSep_6stem" (by jarredou & aufr33)  
 "De-Reverb" (by anvuew)  
 
-
-<font size=1>*made by [jarredou](https://github.com/jarredou)*</font>
