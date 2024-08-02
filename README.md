@@ -13,6 +13,6 @@ Available models:
 "VitLarge23" (by ZFTurbo)  
 "BandIt_Plus" (by kwatcharasupat)   
 "MDX23C_DrumSep_6stem" (by jarredou & aufr33)  
-"MelBand-Denoise" (by aufr33)  
+**"MelBand-Denoise" (by aufr33)** NEW !  
 "BS-Roformer_De-Reverb" (by anvuew)  
 
