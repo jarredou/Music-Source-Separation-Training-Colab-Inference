@@ -3,6 +3,7 @@
 Separation : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Music_Source_Separation_Training_(Colab_Inference).ipynb) | Manual ensemble tool : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Manual_Ensemble_Colab.ipynb)  
 <hr>  
 Available models:<br>  
+<b>"MelBand-Roformer Karaoke (by aufr33 and viperx) NEW !</b><br>
 <b>"Kim MelBand-vocals" (by KimberleyJSN) NEW !</b><br>
 <b>"MelBand-Denoise" (by aufr33) NEW !</b><br>
 "MDX23C_InstVocHQ" (by Anjok, aufr33, ZFTurbo)<br> 
@@ -14,5 +15,3 @@ Available models:<br>
 "VitLarge23" (by ZFTurbo)<br>
 "BandIt_Plus" (by kwatcharasupat)<br>
 "MDX23C_DrumSep_6stem" (by jarredou & aufr33)<br>
-"BS-Roformer_De-Reverb" (by anvuew)<br>
-
