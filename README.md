@@ -6,6 +6,7 @@ Available models:<br>
 <b>"INST-Mel-Roformer v1 (by unwa)" NEW!</b><br>
 <b>"INST-VOC-Mel-Roformer a.k.a. duality (by unwa)" NEW!</b><br>
 <b>"VOCALS-Mel-Roformer big beta 4 (by unwa)" NEW!</b><br>
+"BS-Roformer Large V1 (by unwa)"<br>
 "MDX23C DeReverb (by aufr33 and jarredou)"<br>
 "MelBand-Roformer Karaoke (by aufr33 and viperx)"<br>
 "Kim MelBand-vocals" (by KimberleyJSN)<br>
