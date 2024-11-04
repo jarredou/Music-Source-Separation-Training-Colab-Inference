@@ -4,6 +4,7 @@ Separation : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)
 <hr>  
 Available models:<br> 
 <b>"INST-Mel-Roformer v2 (by unwa)" NEW!</b><br>
+<b>"INST-VOC-Mel-Roformer a.k.a. duality v2 (by unwa)" NEW!</b><br>
 <b>"INST-Mel-Roformer v1 (by unwa)" NEW!</b><br>
 <b>"INST-VOC-Mel-Roformer a.k.a. duality (by unwa)" NEW!</b><br>
 <b>"VOCALS-Mel-Roformer big beta 4 (by unwa)" NEW!</b><br>
