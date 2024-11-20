@@ -3,11 +3,12 @@
 Separation : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Music_Source_Separation_Training_(Colab_Inference).ipynb) | Manual ensemble tool : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Manual_Ensemble_Colab.ipynb)  
 <hr>  
 Available models:<br> 
-<b>"INST-Mel-Roformer v2 (by unwa)" NEW!</b><br>
-<b>"INST-VOC-Mel-Roformer a.k.a. duality v2 (by unwa)" NEW!</b><br>
-<b>"INST-Mel-Roformer v1 (by unwa)" NEW!</b><br>
-<b>"INST-VOC-Mel-Roformer a.k.a. duality (by unwa)" NEW!</b><br>
-<b>"VOCALS-Mel-Roformer big beta 4 (by unwa)" NEW!</b><br>
+<b>"INST-Mel-Roformer v1e (by unwa)" NEW!</b><br>
+"INST-Mel-Roformer v2 (by unwa)"<br>
+"INST-VOC-Mel-Roformer a.k.a. duality v2 (by unwa)"<br>
+"INST-Mel-Roformer v1 (by unwa)"<br>
+"INST-VOC-Mel-Roformer a.k.a. duality (by unwa)"<br>
+"VOCALS-Mel-Roformer big beta 4 (by unwa)"<br>
 "BS-Roformer Large V1 (by unwa)"<br>
 "MDX23C DeReverb (by aufr33 and jarredou)"<br>
 "MelBand-Roformer Karaoke (by aufr33 and viperx)"<br>
