@@ -3,8 +3,9 @@
 Separation : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Music_Source_Separation_Training_(Colab_Inference).ipynb) | Manual ensemble tool : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Manual_Ensemble_Colab.ipynb)  
 <hr>  
 Available models:<br> 
-<b>"VOCALS-Mel-Roformer BigBeta5e (by unwa)" NEW!</b><br>
-<b>"INST-Mel-Roformer v1e (by unwa)" NEW!</b><br>
+<b>"VOCALS-Mel-Roformer Kim FT (by unwa)" NEW !</b><br>
+"VOCALS-Mel-Roformer BigBeta5e (by unwa)"<br>
+"INST-Mel-Roformer v1e (by unwa)"<br>
 "INST-Mel-Roformer v2 (by unwa)"<br>
 "INST-VOC-Mel-Roformer a.k.a. duality v2 (by unwa)"<br>
 "INST-Mel-Roformer v1 (by unwa)"<br>
