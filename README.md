@@ -4,6 +4,8 @@ Separation : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)
 <hr>  
 Available models:<br> 
 <b>"4STEMS-SCNet-XL-MUSDB18 (by ZFTurbo)" NEW !</b><br>
+<b>"4STEMS-BS-Roformer-MUSDB18 (by ZFTurbo)" NEW !</b><br>
+<b>"SCNet-large_starrytong (by starrytong)" NEW !</b><br>
 <b>"VOCALS-Mel-Roformer Kim FT (by unwa)" NEW !</b><br>
 "VOCALS-Mel-Roformer BigBeta5e (by unwa)"<br>
 "INST-Mel-Roformer v1e (by unwa)"<br>
