@@ -7,6 +7,7 @@ Available models:<br>
 <b>"4STEMS-BS-Roformer-MUSDB18 (by ZFTurbo)" NEW !</b><br>
 <b>"4STEMS-SCNet-large (by starrytong)" NEW !</b><br>
 <b>"VOCALS-Mel-Roformer Kim FT (by unwa)" NEW !</b><br>
+"4STEMS-SCNet-MUSDB18 (by starrytong)" NEW !<br>
 "VOCALS-Mel-Roformer BigBeta5e (by unwa)"<br>
 "INST-Mel-Roformer v1e (by unwa)"<br>
 "INST-Mel-Roformer v2 (by unwa)"<br>
