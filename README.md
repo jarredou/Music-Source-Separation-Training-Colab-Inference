@@ -5,6 +5,7 @@ Separation : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)
 Available models:<br> 
 <b>"INST-Mel-Roformer (by Becruily)" NEW !</b><br>
 <b>"VOCAL-Mel-Roformer (by Becruily)" NEW !</b><br>
+<b>"DEBLEED-Mel-Roformer (by unwa/97chris)" NEW !</b><br>
 "4STEMS-SCNet-XL-MUSDB18 (by ZFTurbo)"<br>
 "4STEMS-BS-Roformer-MUSDB18 (by ZFTurbo)"<br>
 "4STEMS-SCNet-large (by starrytong)"<br>
