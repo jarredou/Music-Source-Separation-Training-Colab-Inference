@@ -3,11 +3,13 @@
 Separation : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Music_Source_Separation_Training_(Colab_Inference).ipynb) | Manual ensemble tool : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Manual_Ensemble_Colab.ipynb)  
 <hr>  
 Available models:<br> 
-<b>"4STEMS-SCNet-XL-MUSDB18 (by ZFTurbo)" NEW !</b><br>
-<b>"4STEMS-BS-Roformer-MUSDB18 (by ZFTurbo)" NEW !</b><br>
-<b>"4STEMS-SCNet-large (by starrytong)" NEW !</b><br>
-<b>"VOCALS-Mel-Roformer Kim FT (by unwa)" NEW !</b><br>
-"4STEMS-SCNet-MUSDB18 (by starrytong)" NEW !<br>
+<b>"INST-Mel-Roformer (by Becruily)" NEW !</b><br>
+<b>"VOCAL-Mel-Roformer (by Becruily)" NEW !</b><br>
+"4STEMS-SCNet-XL-MUSDB18 (by ZFTurbo)"<br>
+"4STEMS-BS-Roformer-MUSDB18 (by ZFTurbo)"<br>
+"4STEMS-SCNet-large (by starrytong)"<br>
+"VOCALS-Mel-Roformer Kim FT (by unwa)"<br>
+"4STEMS-SCNet-MUSDB18 (by starrytong)"<br>
 "VOCALS-Mel-Roformer BigBeta5e (by unwa)"<br>
 "INST-Mel-Roformer v1e (by unwa)"<br>
 "INST-Mel-Roformer v2 (by unwa)"<br>
