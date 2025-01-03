@@ -8,7 +8,10 @@ Custom Model Import Version [![Colab](https://colab.research.google.com/assets/c
 Manual ensemble tool : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Manual_Ensemble_Colab.ipynb)  
 <br>  
 <hr>  
-<b>New notebook added to ease the use of custom models ! NEW !</b><br><br>
+<b>New notebook added to ease the use of custom models ! NEW !</b><br>
+You can find a list of models here (maintained by Bas Curtiz):<br>
+https://bascurtiz.x10.mx/models-checkpoint-config-urls.html<br>
+<br><br>
 Available models:<br> 
 <b>"INST-Mel-Roformer (by Becruily)" NEW !</b><br>
 <b>"VOCAL-Mel-Roformer (by Becruily)" NEW !</b><br>
