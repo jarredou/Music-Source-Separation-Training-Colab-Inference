@@ -43,3 +43,5 @@ Available models:<br>
 "VitLarge23" (by ZFTurbo)<br>
 "BandIt_Plus" (by kwatcharasupat)<br>
 "MDX23C_DrumSep_6stem" (by jarredou & aufr33)<br>
+<br>
+For becruily instrumental model consider using this  Colab:<br> https://colab.research.google.com/github/lucassantillifuck2fa/Music-Source-Separation-Training/blob/main/Phase_Fixer.ipynb with auto phase fix<br>
