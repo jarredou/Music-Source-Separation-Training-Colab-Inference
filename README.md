@@ -13,7 +13,7 @@ You can find a list of models here (maintained by Bas Curtiz):<br>
 https://bascurtiz.x10.mx/models-checkpoint-config-urls.html<br>
 <br><br>
 Available models:<br> 
-<b>"VOCALS-Mel-Roformer Kim FT 2 (by unwa)"</b><br>
+<b>"VOCALS-Mel-Roformer Kim FT 2 (by unwa)" NEW !</b><br>
 <b>"INST-Mel-Roformer (by Becruily)" NEW !</b><br>
 <b>"VOCAL-Mel-Roformer (by Becruily)" NEW !</b><br>
 <b>"DEBLEED-Mel-Roformer (by unwa/97chris)" NEW !</b><br>
