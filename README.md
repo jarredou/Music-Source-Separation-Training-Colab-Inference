@@ -10,7 +10,8 @@ Manual ensemble tool : [![Colab](https://colab.research.google.com/assets/colab-
 <hr>  
 <b>New notebook added to ease the use of custom models ! NEW !</b><br>
 You can find a list of models here (maintained by Bas Curtiz):<br>
-https://bascurtiz.x10.mx/models-checkpoint-config-urls.html<br>
+https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
+https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br> 
 <b>"VOCALS-Mel-Roformer Kim FT 2 (by unwa)" NEW !</b><br>
