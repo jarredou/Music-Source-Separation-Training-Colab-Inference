@@ -14,6 +14,7 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br> 
+<b>"VOCALS-Male-Female-Mel-Roformer 7.2889 FT (by Aufr33)" NEW !</b><br>
 <b>"VOCALS-Mel-Roformer Kim FT 2 (by unwa)" NEW !</b><br>
 <b>"INST-Mel-Roformer (by Becruily)" NEW !</b><br>
 <b>"VOCAL-Mel-Roformer (by Becruily)" NEW !</b><br>
