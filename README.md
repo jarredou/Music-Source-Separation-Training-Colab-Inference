@@ -14,11 +14,13 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br> 
-<b>"VOCALS-Male-Female-Mel-Roformer 7.2889 FT (by Aufr33)" NEW !</b><br>
-<b>"VOCALS-Mel-Roformer Kim FT 2 (by unwa)" NEW !</b><br>
-<b>"INST-Mel-Roformer (by Becruily)" NEW !</b><br>
-<b>"VOCAL-Mel-Roformer (by Becruily)" NEW !</b><br>
-<b>"DEBLEED-Mel-Roformer (by unwa/97chris)" NEW !</b><br>
+<b>"VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)"</b> NEW !<br>
+<b>"INST-Mel-Roformer INSTV6 (by Gabox)"</b> NEW !<br>
+"VOCALS-Male-Female-Mel-Roformer 7.2889 FT (by Aufr33)"<br>
+"VOCALS-Mel-Roformer Kim FT 2 (by unwa)"<br>
+"INST-Mel-Roformer (by Becruily)"<br>
+"VOCAL-Mel-Roformer (by Becruily)"<br>
+"DEBLEED-Mel-Roformer (by unwa/97chris)"<br>
 "4STEMS-SCNet-XL-MUSDB18 (by ZFTurbo)"<br>
 "4STEMS-BS-Roformer-MUSDB18 (by ZFTurbo)"<br>
 "4STEMS-SCNet-large (by starrytong)"<br>
