@@ -16,6 +16,7 @@ https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMast
 Available models:<br> 
 <b>"VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)"NEW !</b> <br>
 <b>"INST-Mel-Roformer INSTV6 (by Gabox)" NEW !</b><br>
+<b>"INST-Mel-Roformer INSTV5 (by Gabox)" NEW !</b><br>
 "VOCALS-Male-Female-Mel-Roformer 7.2889 FT (by Aufr33)"<br>
 "VOCALS-Mel-Roformer Kim FT 2 (by unwa)"<br>
 "INST-Mel-Roformer (by Becruily)"<br>
