@@ -13,10 +13,13 @@ You can find a list of models here (maintained by Bas Curtiz):<br>
 https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
-Available models:<br> 
-<b>"VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)"NEW !</b> <br>
-<b>"INST-Mel-Roformer INSTV6 (by Gabox)" NEW !</b><br>
-<b>"INST-Mel-Roformer INSTV5 (by Gabox)" NEW !</b><br>
+Available models:<br>
+<b>"VOCALS-MelBand-Roformer Big Beta 6 (by Unwa) "NEW !</b> <br>
+<b>"INST-MelBand-Roformer INSTV6N (by Gabox) "NEW !</b> <br>
+<b>"VOCALS-MelBand-Roformer voc_Fv4 (by Gabox) "NEW !</b> <br>
+"VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)" <br>
+"INST-Mel-Roformer INSTV6 (by Gabox)"<br>
+"INST-Mel-Roformer INSTV5 (by Gabox)<br>
 "VOCALS-Male-Female-Mel-Roformer 7.2889 FT (by Aufr33)"<br>
 "VOCALS-Mel-Roformer Kim FT 2 (by unwa)"<br>
 "INST-Mel-Roformer (by Becruily)"<br>
