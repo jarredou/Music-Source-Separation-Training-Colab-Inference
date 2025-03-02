@@ -16,7 +16,7 @@ https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMast
 Available models:<br>
 <b>"INST-MelBand-Roformer INSTV7 (by Gabox)" NEW !</b> <br>
 <b>"INST-MelBand-Roformer INSTV7N (by Gabox)" NEW !</b> <br>
-<b>"INST-Mel-Roformer gabox_inst3 (by Gabox)"NEW !</b> <br>
+<b>"INST-Mel-Roformer gabox_inst3 (by Gabox)" NEW !</b> <br>
 "VOCALS-MelBand-Roformer Big Beta 6 (by Unwa)" <br>
 "INST-MelBand-Roformer INSTV6N (by Gabox)"<br>
 "VOCALS-MelBand-Roformer voc_Fv4 (by Gabox)"<br>
