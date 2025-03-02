@@ -14,10 +14,13 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
-<b>"VOCALS-MelBand-Roformer Big Beta 6 (by Unwa) "NEW !</b> <br>
-<b>"INST-MelBand-Roformer INSTV6N (by Gabox) "NEW !</b> <br>
-<b>"VOCALS-MelBand-Roformer voc_Fv4 (by Gabox) "NEW !</b> <br>
-"VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)" <br>
+<b>"INST-MelBand-Roformer INSTV7 (by Gabox)" NEW !</b> <br>
+<b>"INST-MelBand-Roformer INSTV7N (by Gabox)" NEW !</b> <br>
+<b>"INST-Mel-Roformer gabox_inst3 (by Gabox)"NEW !</b> <br>
+"VOCALS-MelBand-Roformer Big Beta 6 (by Unwa)" <br>
+"INST-MelBand-Roformer INSTV6N (by Gabox)"<br>
+"VOCALS-MelBand-Roformer voc_Fv4 (by Gabox)"<br>
+"VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)"<br>
 "INST-Mel-Roformer INSTV6 (by Gabox)"<br>
 "INST-Mel-Roformer INSTV5 (by Gabox)<br>
 "VOCALS-Male-Female-Mel-Roformer 7.2889 FT (by Aufr33)"<br>
@@ -52,4 +55,4 @@ Available models:<br>
 "BandIt_Plus" (by kwatcharasupat)<br>
 "MDX23C_DrumSep_6stem" (by jarredou & aufr33)<br>
 <br>
-For becruily instrumental model consider using this  Colab:<br> https://colab.research.google.com/github/lucassantillifuck2fa/Music-Source-Separation-Training/blob/main/Phase_Fixer.ipynb with auto phase fix for better results.<br>
+For becruily instrumental model consider using this  Colab:<br> https://colab.research.google.com/github/lucassantillifuck2fa/Music-Source-Separation-Training/blob/main/Phase_Fixer.ipynb with auto phase fix for results with less vocal residues.<br>
