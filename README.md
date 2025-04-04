@@ -18,6 +18,7 @@ Available models:<br>
 <b>"INST-Mel-Roformer v1+ Preview (by unwa)" NEW !</b><br>
 <b>"INST-Mel-Roformer Metal Model Preview (by Mesk)" NEW !</b><br>
 <b>"VOCALS-Mel-Roformer FT3 Preview (by unwa)" NEW !</b><br>
+<b>"VOCALS-Mel-Roformer Big Beta 6X (by unwa)" NEW !</b><br>
 "INST-MelBand-Roformer INSTV7 (by Gabox)"<br>
 "INST-MelBand-Roformer INSTFVX (by Gabox)"<br>
 "INST-MelBand-Roformer INSTV7N (by Gabox)"<br>
