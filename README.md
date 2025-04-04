@@ -14,12 +14,15 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
-<b>"INST-MelBand-Roformer INSTV7 (by Gabox)" NEW !</b> <br>
-<b>"INST-MelBand-Roformer INSTFVX (by Gabox)" NEW !</b> <br>
-<b>"INST-MelBand-Roformer INSTV7N (by Gabox)" NEW !</b> <br>
-<b>"INST-Mel-Roformer gabox_inst3 (by Gabox)" NEW !</b> <br>
-<b>"INST-Mel-Roformer Kim FT2 bleedless (by unwa)" NEW !</b> <br>
-"VOCALS-MelBand-Roformer Big Beta 6 (by Unwa)" <br>
+<b>"INST-Mel-Roformer v1e+ (by unwa)" NEW ! </b><br>
+<b>"INST-Mel-Roformer v1+ Preview (by unwa)" NEW !</b><br>
+<b>"INST-Mel-Roformer Metal Model Preview (by Mesk)" NEW !</b><br>
+"INST-MelBand-Roformer INSTV7 (by Gabox)"<br>
+"INST-MelBand-Roformer INSTFVX (by Gabox)"<br>
+"INST-MelBand-Roformer INSTV7N (by Gabox)"<br>
+"INST-Mel-Roformer gabox_inst3 (by Gabox)"<br>
+"INST-Mel-Roformer Kim FT2 bleedless (by unwa)"<br>
+"VOCALS-MelBand-Roformer Big Beta 6 (by Unwa)"<br>
 "INST-MelBand-Roformer INSTV6N (by Gabox)"<br>
 "VOCALS-MelBand-Roformer voc_Fv4 (by Gabox)"<br>
 "VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)"<br>
