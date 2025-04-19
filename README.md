@@ -14,11 +14,13 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
-<b>"INST-Mel-Roformer v1e+ (by unwa)" NEW ! </b><br>
-<b>"INST-Mel-Roformer v1+ Preview (by unwa)" NEW !</b><br>
-<b>"INST-Mel-Roformer Metal Model Preview (by Mesk)" NEW !</b><br>
-<b>"VOCALS-Mel-Roformer FT3 Preview (by unwa)" NEW !</b><br>
-<b>"VOCALS-Mel-Roformer Big Beta 6X (by unwa)" NEW !</b><br>
+<b>"MelBand-Roformer Karaoke (by becruily)" NEW !</b><br>
+<b>"4STEMS-MelBand-Roformer Large (by Amane)" NEW !</b><br>
+<b>"INST-Mel-Roformer v1e+ (by unwa)" </b><br>
+<b>"INST-Mel-Roformer v1+ Preview (by unwa)"</b><br>
+<b>"INST-Mel-Roformer Metal Model Preview (by Mesk)"</b><br>
+<b>"VOCALS-Mel-Roformer FT3 Preview (by unwa)"</b><br>
+<b>"VOCALS-Mel-Roformer Big Beta 6X (by unwa)"</b><br>
 <b>"BandIt_v2 multi model (by kwatcharasupat)"</b><br>
 "INST-MelBand-Roformer INSTV7 (by Gabox)"<br>
 "INST-MelBand-Roformer INSTFVX (by Gabox)"<br>
