@@ -14,6 +14,7 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
+<b>"INST-Mel-Roformer Inst_FV8 (by Gabox)" </b><br>
 <b>"MelBand-Roformer Karaoke (by becruily)" NEW !</b><br>
 <b>"4STEMS-MelBand-Roformer Large (by Amane)" NEW !</b><br>
 <b>"INST-Mel-Roformer v1e+ (by unwa)" </b><br>
