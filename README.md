@@ -14,6 +14,7 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
+<b>"PHANTOM=CENTER-HTDemucs (by wesleyr36)" NEW !</b><br>
 <b>"VOCALS-BS-Roformer Revive 3e (by unwa)" NEW !</b><br>
 <b>"VOCALS-BS-Roformer Revive 2 (by unwa)" NEW !</b><br>
 "INST-Mel-Roformer Inst_FV8 (by Gabox)"<br>
