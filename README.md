@@ -14,6 +14,7 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
+<b>"MelBand-Roformer Guitar (by becruily)" </b><br>
 <b>"DENOISE-DEBLEED-Mel-Roformer (by Gabox)" NEW !</b><br>
 (for fullness models noise like in v5n, it can't remove the vocal residues) <br>
 <b>"PHANTOM-CENTER-HTDemucs (by wesleyr36)" NEW !</b><br>
@@ -43,7 +44,7 @@ Available models:<br>
 "VOCALS-Mel-Roformer Kim FT 2 (by unwa)"<br>
 "INST-Mel-Roformer (by Becruily)"<br>
 "VOCAL-Mel-Roformer (by Becruily)"<br>
-"DEBLEED-Mel-Roformer (by unwa/97chris)" (offline)<br>
+"DEBLEED-Mel-Roformer (by unwa/97chris)" (fixed)<br>
 "4STEMS-SCNet-XL-MUSDB18 (by ZFTurbo)"<br>
 "4STEMS-BS-Roformer-MUSDB18 (by ZFTurbo)"<br>
 "4STEMS-SCNet-large (by starrytong)"<br>
