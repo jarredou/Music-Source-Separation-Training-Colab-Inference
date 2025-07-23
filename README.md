@@ -14,6 +14,7 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
+<b>"DRUMSEP-MDX23C_DrumSep_5stem (by jarredou)" NEW !!</b><br>
 <b>"INST-Mel-Roformer Inst_FV8B (by Gabox)" NEW !</b><br>
 <b>"MelBand-Roformer Guitar (by becruily)" NEW !</b><br>
 <b>"DENOISE-DEBLEED-Mel-Roformer (by Gabox)" NEW !</b><br>
