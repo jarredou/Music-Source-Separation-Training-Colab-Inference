@@ -14,14 +14,19 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 <br><br>
 Available models:<br>
-<b>"DRUMSEP-MDX23C_DrumSep_5stem (by jarredou)" NEW !!</b><br>
-<b>"INST-Mel-Roformer Inst_FV8B (by Gabox)" NEW !</b><br>
-<b>"MelBand-Roformer Guitar (by becruily)" NEW !</b><br>
-<b>"DENOISE-DEBLEED-Mel-Roformer (by Gabox)" NEW !</b><br>
+
+<b>"VOCALS-MelBand-Roformer voc_gabox2 (by Gabox)" NEW !</b><br>
+<b>"VOCALS-BS-Roformer Resurrection (by unwa)" NEW !</b><br>
+<b>"VOCALS-MelBand-Roformer voc_Fv5 (by Gabox)" NEW !</b><br>
+<b>"INST-Mel-Roformer INSTV7Z (by Gabox)" NEW !</b><br>
+<b>"DRUMSEP-MDX23C_DrumSep_5stem (by jarredou)" NEW !</b><br>
+"INST-Mel-Roformer Inst_FV8B (by Gabox)" NEW !<br>
+"MelBand-Roformer Guitar (by becruily)" NEW !<br>
+"DENOISE-DEBLEED-Mel-Roformer (by Gabox)" NEW !<br>
 (for fullness models noise like in v5n, it can't remove the vocal residues) <br>
-<b>"PHANTOM-CENTER-HTDemucs (by wesleyr36)" NEW !</b><br>
-<b>"VOCALS-BS-Roformer Revive 3e (by unwa)" NEW !</b><br>
-<b>"VOCALS-BS-Roformer Revive 2 (by unwa)" NEW !</b><br>
+"PHANTOM-CENTER-HTDemucs (by wesleyr36)" NEW !<br>
+"VOCALS-BS-Roformer Revive 3e (by unwa)" NEW !<br>
+"VOCALS-BS-Roformer Revive 2 (by unwa)" NEW !<br>
 "INST-Mel-Roformer Inst_FV8 (by Gabox)"<br>
 "MelBand-Roformer Karaoke (by becruily)" <br>
 "4STEMS-MelBand-Roformer Large (by Amane)"<br>
