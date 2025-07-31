@@ -81,4 +81,4 @@ Available models:<br>
 "BandIt_Plus" (by kwatcharasupat)<br>
 "MDX23C_DrumSep_6stem" (by jarredou & aufr33)<br>
 <br>
-For becruily instrumental model consider using this  Colab:<br> https://colab.research.google.com/github/lucassantillifuck2fa/Music-Source-Separation-Training/blob/main/Phase_Fixer.ipynb with auto phase fix for results with less vocal residues.<br>
+For becruily instrumental model or other instrumental Mel/BS-Roformers consider using this  Colab:<br> https://colab.research.google.com/github/lucassantillifuck2fa/Music-Source-Separation-Training/blob/main/Phase_Fixer.ipynb with auto phase fix for results with less vocal residues.<br>
