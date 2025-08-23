@@ -15,6 +15,7 @@ https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMast
 <br><br>
 Available models:<br>
 
+<b>"LEAD-VOCAL-DE-REVERB-MelBand-Roformer (by Gabox) NEW !"<b><br>
 <b>"INST-BS-Roformer Resurrection (by unwa)" NEW !<b><br>
 <b>"DE-REVERB-MelBand-Roformer mono 20.4029 (by anvuew)"</b><br>
 <b>"VOCALS-MelBand-Roformer voc_gabox2 (by Gabox)" NEW !</b><br>
