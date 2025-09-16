@@ -15,14 +15,14 @@ https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMast
 <br><br>
 Available models:<br>
 
-<b>"VOCALS-Revive 1-BS-Roformer (by unwa)"<b><br>
+<b>"VOCALS-Revive 1-BS-Roformer (by unwa)"<b> Fixed<br> 
 <b>"LEAD-VOCAL-DE-REVERB-MelBand-Roformer (by Gabox) NEW !"<b><br>
 <b>"INST-BS-Roformer Resurrection (by unwa)" NEW !<b><br>
 <b>"DE-REVERB-MelBand-Roformer mono 20.4029 (by anvuew)"</b><br>
 <b>"VOCALS-MelBand-Roformer voc_gabox2 (by Gabox)" NEW !</b><br>
 <b>"VOCALS-BS-Roformer Resurrection (by unwa)" NEW !</b><br>
 <b>"VOCALS-MelBand-Roformer voc_Fv5 (by Gabox)" NEW !</b><br>
-<b>"INST-Mel-Roformer INSTV7Z (by Gabox)" NEW !</b><br>
+<b>"INST-Mel-Roformer Inst_FV7Z (by Gabox)" NEW !</b> Fixed<br>
 <b>"DRUMSEP-MDX23C_DrumSep_5stem (by jarredou)" NEW !</b><br>
 "INST-Mel-Roformer Inst_FV8B (by Gabox)" NEW !<br>
 "MelBand-Roformer Guitar (by becruily)" NEW !<br>
