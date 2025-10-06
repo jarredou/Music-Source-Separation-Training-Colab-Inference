@@ -15,6 +15,8 @@ https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMast
 <br><br>
 Available models:<br>
 
+<b>'INST-MelBand-Roformer Inst_Fv4 (by Gabox)' NEW !<b><br> 
+<b>'INST-MelBand-Roformer Neo_InstVFX (by neoculture)' (for vocal chops preserving) NEW !<b><br> 
 <b>"VOCALS-MelBand-Roformer voc_Fv6 experimental (by Gabox)" NEW !<b><br> 
 <b>"VOCALS-Revive 1-BS-Roformer (by unwa)"<b> Fixed<br> 
 <b>"LEAD-VOCAL-DE-REVERB-MelBand-Roformer (by Gabox) NEW !"<b><br>
