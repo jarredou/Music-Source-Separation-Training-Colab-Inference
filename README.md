@@ -15,19 +15,19 @@ https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMast
 <br><br>
 Available models:<br>
 
-<b>'KARAOKE-BS-Roformer (by anvuew)' NEW !<b><br> 
-<b>'DEREVERB-BS-Roformer dereverb_room mono (by anvuew)' NEW ! Fixed<b><br> 
-<b>'INST-MelBand-Roformer Inst_Fv4 (by Gabox)' NEW !<b><br> 
-<b>'INST-MelBand-Roformer Neo_InstVFX (by neoculture)' (for vocal chops preserving) NEW !<b><br> 
-<b>"VOCALS-MelBand-Roformer voc_Fv6 experimental (by Gabox)" NEW !<b><br> 
-<b>"VOCALS-Revive 1-BS-Roformer (by unwa)"<b> Fixed<br> 
-<b>"LEAD-VOCAL-DE-REVERB-MelBand-Roformer (by Gabox) NEW !"<b><br>
-<b>"INST-BS-Roformer Resurrection (by unwa)" NEW !<b><br>
+<b>"KARAOKE-BS-Roformer (by anvuew)" NEW !</b><br> 
+<b>"DEREVERB-BS-Roformer dereverb_room mono (by anvuew)" NEW ! Fixed</b><br> 
+<b>"INST-MelBand-Roformer Inst_Fv4 (by Gabox)" NEW !</b><br> 
+<b>"INST-MelBand-Roformer Neo_InstVFX (by neoculture)" (for vocal chops preserving) NEW !</b><br> 
+<b>"VOCALS-MelBand-Roformer voc_Fv6 experimental (by Gabox)" NEW !</b><br> 
+<b>"VOCALS-Revive 1-BS-Roformer (by unwa)"Fixed</b><br> 
+<b>"LEAD-VOCAL-DE-REVERB-MelBand-Roformer (by Gabox) NEW !"</b><br>
+<b>"INST-BS-Roformer Resurrection (by unwa)" NEW !</b><br>
 <b>"DE-REVERB-MelBand-Roformer mono 20.4029 (by anvuew)"</b><br>
 <b>"VOCALS-MelBand-Roformer voc_gabox2 (by Gabox)" NEW !</b><br>
 <b>"VOCALS-BS-Roformer Resurrection (by unwa)" NEW !</b><br>
 <b>"VOCALS-MelBand-Roformer voc_Fv5 (by Gabox)" NEW !</b><br>
-<b>"INST-Mel-Roformer Inst_FV7Z (by Gabox)" NEW !</b> Fixed<br>
+<b>"INST-Mel-Roformer Inst_FV7Z (by Gabox)" NEW ! Fixed</b><br>
 <b>"DRUMSEP-MDX23C_DrumSep_5stem (by jarredou)" NEW !</b><br>
 "INST-Mel-Roformer Inst_FV8B (by Gabox)" NEW !<br>
 "MelBand-Roformer Guitar (by becruily)" NEW !<br>
@@ -38,7 +38,7 @@ Available models:<br>
 "VOCALS-BS-Roformer Revive 2 (by unwa)" NEW !<br>
 "INST-Mel-Roformer Inst_FV8 (by Gabox)"<br>
 "MelBand-Roformer Karaoke (by becruily)" <br>
-"4STEMS-MelBand-Roformer Large (by Amane)" <b>fixed<b><br>
+"4STEMS-MelBand-Roformer Large (by Amane)" <b>fixed</b><br>
 "INST-Mel-Roformer v1e+ (by unwa)"<br>
 "INST-Mel-Roformer v1+ Preview (by unwa)"<br>
 "INST-Mel-Roformer Metal Model Preview (by Mesk)"<br>
