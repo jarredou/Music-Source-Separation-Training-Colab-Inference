@@ -15,6 +15,7 @@ https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMast
 <br><br>
 Available models:<br>
 
+<b>"INST-MelBand-Roformer voc_Fv7 beta 1 & 2 (by Gabox)" NEW !</b><br> 
 <b>"KARAOKE-BS-Roformer (by anvuew)" NEW !</b><br> 
 <b>"DEREVERB-BS-Roformer dereverb_room mono (by anvuew)" NEW ! Fixed</b><br> 
 <b>"INST-MelBand-Roformer Inst_Fv4 (by Gabox)" NEW !</b><br> 
@@ -38,7 +39,7 @@ Available models:<br>
 "VOCALS-BS-Roformer Revive 2 (by unwa)" NEW !<br>
 "INST-Mel-Roformer Inst_FV8 (by Gabox)"<br>
 "MelBand-Roformer Karaoke (by becruily)" <br>
-"4STEMS-MelBand-Roformer Large (by Amane)" <b>fixed</b><br>
+"4STEMS-MelBand-Roformer Large (by Amane)" <b>fixed 2</b><br>
 "INST-Mel-Roformer v1e+ (by unwa)"<br>
 "INST-Mel-Roformer v1+ Preview (by unwa)"<br>
 "INST-Mel-Roformer Metal Model Preview (by Mesk)"<br>
