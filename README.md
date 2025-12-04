@@ -12,6 +12,7 @@ Manual ensemble tool : [![Colab](https://colab.research.google.com/assets/colab-
 You can find a list of models here (maintained by Bas Curtiz):<br>
 https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
+https://github.com/Eddycrack864/UVR5-UI/blob/main/assets/models.json<br>
 <br><br>
 Available models:<br>
 
