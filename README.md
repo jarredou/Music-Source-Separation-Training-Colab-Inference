@@ -16,6 +16,8 @@ https://github.com/Eddycrack864/UVR5-UI/blob/main/assets/models.json<br>
 <br><br>
 Available models:<br>
 
+<b>"INST-MelBand-Roformer Rifforge (for metal; by mesk)" NEW !</b><br> 
+<b>"INST-MelBand-Roformer Deux (by becruily)" NEW !</b><br> 
 <b>"VOCALS-MelBand-Roformer voc_Fv7 beta 1 & 2 & 3 (by Gabox)" NEW !</b><br> 
 <b>"KARAOKE-BS-Roformer (by anvuew)" NEW !</b><br> 
 <b>"DEREVERB-BS-Roformer dereverb_room mono (by anvuew)" NEW ! Fixed</b><br> 
