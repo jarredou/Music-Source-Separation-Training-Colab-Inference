@@ -14,7 +14,8 @@ https://bascurtiz.x10.mx/models-checkpoint-config-urls.html or<br>
 https://github.com/SiftedSand/MusicSepGUI/blob/main/models.json (by SeinfeldMaster)<br>
 https://github.com/Eddycrack864/UVR5-UI/blob/main/assets/models.json<br>
 <br><br>
-voc_fv7 final, Large inst, inst_gaboxBv3, fv8b and Riffore final, fv7z, Gabox_InstFv8_v1, ft3 preview now added in [this](https://colab.research.google.com/drive/1IC6Q1hLF55_tK6mhky0SWYKGVF9T5WsY) Colab.
+voc_fv7 final, Large inst, inst_gaboxBv3, fv8b and Riffore final, fv7z, Gabox_InstFv8_v1, ft3 preview now added in: https://colab.research.google.com/drive/1IC6Q1hLF55_tK6mhky0SWYKGVF9T5WsY
+<br><br>
 Available models:<br>
 
 <b>"INST-MelBand-Roformer Rifforge (for metal; by mesk)" NEW !</b><br> 
