@@ -1,0 +1,871 @@
+{
+  "VOCALS-MelBand-Roformer (by KimberleyJSN)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://raw.githubusercontent.com/ZFTurbo/Music-Source-Separation-Training/main/configs/KimberleyJensen/config_vocals_mel_band_roformer_kj.yaml",
+      "save_as": "config_vocals_mel_band_roformer_kj.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/KimberleyJSN/melbandroformer/resolve/main/MelBandRoformer.ckpt",
+      "save_as": "MelBandRoformer.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer (by Becruily)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-vocals/resolve/main/config_vocals_becruily.yaml",
+      "save_as": "config_vocals_becruily.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-vocals/resolve/main/mel_band_roformer_vocals_becruily.ckpt",
+      "save_as": "mel_band_roformer_vocals_becruily.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_Fv3 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_Fv3.ckpt",
+      "save_as": "voc_Fv3.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_Fv4 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_fv4.ckpt",
+      "save_as": "voc_fv4.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_Fv5 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_fv5.ckpt",
+      "save_as": "voc_fv5.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_Fv6 experimental (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_fv6.ckpt",
+      "save_as": "voc_fv6.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_Fv7 beta (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/experimental/vocfv7beta1.ckpt",
+      "save_as": "vocfv7beta1.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_Fv7 beta 2 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/experimental/vocfv7beta2.ckpt",
+      "save_as": "vocfv7beta2.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_Fv7 beta 3 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/experimental/vocfv7beta3.ckpt",
+      "save_as": "vocfv7beta3.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer voc_gabox2 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox.yaml",
+      "save_as": "voc_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/vocals/voc_gabox2.ckpt",
+      "save_as": "voc_gabox2.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer Kim FT (by Unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/config_kimmel_unwa_ft.yaml",
+      "save_as": "config_kimmel_unwa_ft.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/kimmel_unwa_ft.ckpt",
+      "save_as": "kimmel_unwa_ft.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer Kim FT 2 (by Unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/config_kimmel_unwa_ft.yaml",
+      "save_as": "config_kimmel_unwa_ft.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/kimmel_unwa_ft2.ckpt",
+      "save_as": "kimmel_unwa_ft2.ckpt"
+    }
+  },
+  "VOCALS-MelBand-Roformer Kim FT 2 Bleedless (by Unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/config_kimmel_unwa_ft.yaml",
+      "save_as": "config_kimmel_unwa_ft.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/kimmel_unwa_ft2_bleedless.ckpt",
+      "save_as": "kimmel_unwa_ft2_bleedless.ckpt"
+    }
+  },
+  "VOCALS-Mel-Roformer FT 3 Preview (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/config_kimmel_unwa_ft.yaml",
+      "save_as": "config_kimmel_unwa_ft.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Kim-Mel-Band-Roformer-FT/resolve/main/kimmel_unwa_ft3_prev.ckpt",
+      "save_as": "kimmel_unwa_ft3_prev.ckpt"
+    }
+  },
+  "VOCALS-Melband-Roformer BigBeta4 (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/raw/main/config_melbandroformer_big_beta4.yaml",
+      "save_as": "config_melbandroformer_big_beta4.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/resolve/main/melband_roformer_big_beta4.ckpt",
+      "save_as": "melband_roformer_big_beta4.ckpt"
+    }
+  },
+  "VOCALS-Melband-Roformer BigBeta5e (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/resolve/main/big_beta5e.yaml",
+      "save_as": "big_beta5e.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/resolve/main/big_beta5e.ckpt",
+      "save_as": "big_beta5e.ckpt"
+    }
+  },
+  "VOCALS-Melband-Roformer BigBeta6 (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/resolve/main/big_beta6.yaml",
+      "save_as": "big_beta6.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/resolve/main/big_beta6.ckpt",
+      "save_as": "big_beta6.ckpt"
+    }
+  },
+  "VOCALS-Melband-Roformer BigBeta6X (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/resolve/main/big_beta6x.yaml",
+      "save_as": "big_beta6x.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-big/resolve/main/big_beta6x.ckpt",
+      "save_as": "big_beta6x.ckpt"
+    }
+  },
+  "VOCALS-BS-Roformer_1296 (by viperx)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_bs_roformer_ep_368_sdr_12.9628.yaml",
+      "save_as": "model_bs_roformer_ep_368_sdr_12.9628.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_368_sdr_12.9628.ckpt",
+      "save_as": "model_bs_roformer_ep_368_sdr_12.9628.ckpt"
+    }
+  },
+  "VOCALS-BS-Roformer_1297 (by viperx)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://raw.githubusercontent.com/ZFTurbo/Music-Source-Separation-Training/main/configs/viperx/model_bs_roformer_ep_317_sdr_12.9755.yaml",
+      "save_as": "model_bs_roformer_ep_317_sdr_12.9755.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_317_sdr_12.9755.ckpt",
+      "save_as": "model_bs_roformer_ep_317_sdr_12.9755.ckpt"
+    }
+  },
+  "VOCALS-BS-RoformerLargev1 (by unwa)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/jarredou/unwa_bs_roformer/raw/main/config_bsrofoL.yaml",
+      "save_as": "config_bsrofoL.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/unwa_bs_roformer/resolve/main/BS-Roformer_LargeV1.ckpt",
+      "save_as": "BS-Roformer_LargeV1.ckpt"
+    }
+  },
+  "VOCALS-BS-Roformer Resurrection (by unwa)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Resurrection/resolve/main/BS-Roformer-Resurrection-Config.yaml",
+      "save_as": "BS-Roformer-Resurrection-Config.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Resurrection/resolve/main/BS-Roformer-Resurrection.ckpt",
+      "save_as": "BS-Roformer-Resurrection.ckpt"
+    }
+  },
+  "VOCALS-BS-Roformer Revive (by unwa)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Revive/resolve/main/config.yaml",
+      "save_as": "config_revive.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Revive/resolve/main/bs_roformer_revive.ckpt",
+      "save_as": "bs_roformer_revive.ckpt"
+    }
+  },
+  "VOCALS-BS-Roformer Revive 2 (by unwa)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Revive/resolve/main/config.yaml",
+      "save_as": "config_revive.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Revive/resolve/main/bs_roformer_revive2.ckpt",
+      "save_as": "bs_roformer_revive2.ckpt"
+    }
+  },
+  "VOCALS-BS-Roformer Revive 3e (by unwa)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Revive/resolve/main/config.yaml",
+      "save_as": "config_revive.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Revive/resolve/main/bs_roformer_revive3e.ckpt",
+      "save_as": "bs_roformer_revive3e.ckpt"
+    }
+  },
+  "VOCALS-InstVocHQ": {
+    "model_type": "mdx23c",
+    "config": {
+      "url": "https://raw.githubusercontent.com/ZFTurbo/Music-Source-Separation-Training/main/configs/config_vocals_mdx23c.yaml",
+      "save_as": "config_vocals_mdx23c.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.0/model_vocals_mdx23c_sdr_10.17.ckpt",
+      "save_as": "model_vocals_mdx23c_sdr_10.17.ckpt"
+    }
+  },
+  "VOCALS-VitLarge23 (by ZFTurbo)": {
+    "model_type": "segm_models",
+    "config": {
+      "url": "https://raw.githubusercontent.com/ZFTurbo/Music-Source-Separation-Training/refs/heads/main/configs/config_vocals_segm_models.yaml",
+      "save_as": "config_vocals_segm_models.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.0/model_vocals_segm_models_sdr_9.77.ckpt",
+      "save_as": "model_vocals_segm_models_sdr_9.77.ckpt"
+    }
+  },
+  "INST-MelBand-Roformer (by Becruily)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-instrumental/resolve/main/config_instrumental_becruily.yaml",
+      "save_as": "config_instrumental_becruily.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-instrumental/resolve/main/mel_band_roformer_instrumental_becruily.ckpt",
+      "save_as": "mel_band_roformer_instrumental_becruily.ckpt"
+    }
+  },
+  "INST-Mel-Roformer v1 (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/raw/main/config_melbandroformer_inst.yaml",
+      "save_as": "config_melbandroformer_inst.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/melband_roformer_inst_v1.ckpt",
+      "save_as": "melband_roformer_inst_v1.ckpt"
+    }
+  },
+  "INST-Mel-Roformer v1+ (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/config_melbandroformer_inst.yaml",
+      "save_as": "config_melbandroformer_inst.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/inst_v1_plus_test.ckpt",
+      "save_as": "inst_v1_plus_test.ckpt"
+    }
+  },
+  "INST-Mel-Roformer v1e (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/raw/main/config_melbandroformer_inst.yaml",
+      "save_as": "config_melbandroformer_inst.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/inst_v1e.ckpt",
+      "save_as": "inst_v1e.ckpt"
+    }
+  },
+  "INST-Mel-Roformer v1e+ (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/config_melbandroformer_inst.yaml",
+      "save_as": "config_melbandroformer_inst.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/inst_v1e_plus.ckpt",
+      "save_as": "inst_v1e_plus.ckpt"
+    }
+  },
+  "INST-Mel-Roformer v2 (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/raw/main/config_melbandroformer_inst_v2.yaml",
+      "save_as": "config_melbandroformer_inst_v2.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/melband_roformer_inst_v2.ckpt",
+      "save_as": "melband_roformer_inst_v2.ckpt"
+    }
+  },
+  "INST-BS-Roformer Resurrection (by unwa)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Resurrection/resolve/main/BS-Roformer-Resurrection-Inst-Config.yaml",
+      "save_as": "BS-Roformer-Resurrection-Inst-Config.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/BS-Roformer-Resurrection/resolve/main/BS-Roformer-Resurrection-Inst.ckpt",
+      "save_as": "BS-Roformer-Resurrection-Inst.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTV5 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/INSTV5.ckpt",
+      "save_as": "INSTV5.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTV6 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/INSTV6.ckpt",
+      "save_as": "INSTV6.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTV6N (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/INSTV6N.ckpt",
+      "save_as": "INSTV6N.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTV7 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/Inst_GaboxV7.ckpt",
+      "save_as": "Inst_GaboxV7.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTV7N (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/INSTV7N.ckpt",
+      "save_as": "INSTV7N.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTV8B (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/experimental/Inst_FV8b.ckpt",
+      "save_as": "Inst_FV8b.ckpt"
+    }
+  },
+  "INST-MelBand-Roformer Inst_Fv4 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_Fv4.ckpt",
+      "save_as": "inst_Fv4.ckpt"
+    }
+  },
+  "INST-MelBand-Roformer Inst_Fv8 v2 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/Inst_GaboxFv8.ckpt",
+      "save_as": "Inst_GaboxFv8.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTFVX (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/Inst_GaboxFVX.ckpt",
+      "save_as": "Inst_GaboxFVX.ckpt"
+    }
+  },
+  "INST-Mel-Roformer INSTFV7Z (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/Inst_GaboxFv7z.ckpt",
+      "save_as": "Inst_GaboxFv7z.ckpt"
+    }
+  },
+  "INST-Mel-Roformer inst_gabox3 (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox3.ckpt",
+      "save_as": "inst_gabox3.ckpt"
+    }
+  },
+  "INST-Mel-Roformer Neo_InstVFX (by neoculture)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/natanworkspace/melband_roformer/resolve/main/config_neo_inst.yaml",
+      "save_as": "config_neo_inst.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/natanworkspace/melband_roformer/resolve/main/Neo_InstVFX.ckpt",
+      "save_as": "Neo_InstVFX.ckpt"
+    }
+  },
+  "INST-Mel-Roformer Metal Model Preview (by Mesk)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/meskvlla33/metal_roformer_preview/resolve/main/config_inst_metal_roformer_mesk.yaml",
+      "save_as": "config_inst_metal_roformer_mesk.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/meskvlla33/metal_roformer_preview/resolve/main/metal_roformer_inst_mesk_preview.ckpt",
+      "save_as": "metal_roformer_inst_mesk_preview.ckpt"
+    }
+  },
+  "INST-Mel-Roformer Rifforge (for metal; by mesk)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/meskvlla33/rifforge/resolve/main/config_rifforge_full_mesk.yaml",
+      "save_as": "config_rifforge_full_mesk.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/meskvlla33/rifforge/resolve/main/rifforge_full_sdr_14.2436.ckpt",
+      "save_as": "rifforge_full_sdr_14.2436.ckpt"
+    }
+  },
+  "INST-VOC-Mel-Roformer a.k.a. duality (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/raw/main/config_melbandroformer_instvoc_duality.yaml",
+      "save_as": "config_melbandroformer_instvoc_duality.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/resolve/main/melband_roformer_instvoc_duality_v1.ckpt",
+      "save_as": "melband_roformer_instvoc_duality_v1.ckpt"
+    }
+  },
+  "INST-VOC-Mel-Roformer a.k.a. duality v2 (by unwa)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/raw/main/config_melbandroformer_instvoc_duality.yaml",
+      "save_as": "config_melbandroformer_instvoc_duality.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/resolve/main/melband_roformer_instvox_duality_v2.ckpt",
+      "save_as": "melband_roformer_instvox_duality_v2.ckpt"
+    }
+  },
+  "INST-VOC-Mel-Roformer deux (by Becruily)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-deux/resolve/main/config_deux_becruily.yaml",
+      "save_as": "config_deux_becruily.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-deux/resolve/main/becruily_deux.ckpt",
+      "save_as": "becruily_deux.ckpt"
+    }
+  },
+  "KARAOKE-BS-Roformer (by anvuew)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/anvuew/karaoke_bs_roformer/resolve/main/karaoke_bs_roformer_anvuew.yaml",
+      "save_as": "karaoke_bs_roformer_anvuew.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/anvuew/karaoke_bs_roformer/resolve/main/karaoke_bs_roformer_anvuew.ckpt",
+      "save_as": "karaoke_bs_roformer_anvuew.ckpt"
+    }
+  },
+  "KARAOKE-MelBand-Roformer (by becruily)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-karaoke/resolve/main/config_karaoke_becruily.yaml",
+      "save_as": "config_karaoke_becruily.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-karaoke/resolve/main/mel_band_roformer_karaoke_becruily.ckpt",
+      "save_as": "mel_band_roformer_karaoke_becruily.ckpt"
+    }
+  },
+  "KARAOKE-MelBand-Roformer (by aufr33 & viperx)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/jarredou/aufr33-viperx-karaoke-melroformer-model/resolve/main/config_mel_band_roformer_karaoke.yaml",
+      "save_as": "config_mel_band_roformer_karaoke.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/aufr33-viperx-karaoke-melroformer-model/resolve/main/mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956.ckpt",
+      "save_as": "mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956.ckpt"
+    }
+  },
+  "OTHER-BS-Roformer_1053 (by viperx)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_bs_roformer_ep_937_sdr_10.5309.yaml",
+      "save_as": "model_bs_roformer_ep_937_sdr_10.5309.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_937_sdr_10.5309.ckpt",
+      "save_as": "model_bs_roformer_ep_937_sdr_10.5309.ckpt"
+    }
+  },
+  "6STEMS-BS-Roformer-SW": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/jarredou/BS-ROFO-SW-Fixed/resolve/main/BS-Rofo-SW-Fixed.yaml",
+      "save_as": "BS-Rofo-SW-Fixed.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/BS-ROFO-SW-Fixed/resolve/main/BS-Rofo-SW-Fixed.ckpt",
+      "save_as": "BS-Rofo-SW-Fixed.ckpt"
+    }
+  },
+  "4STEMS-MelBand-Roformer_Large (by Amane)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/Aname-Tommy/melbandroformer4stems/resolve/main/config_large.yaml",
+      "save_as": "config_large.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/Aname-Tommy/melbandroformer4stems/resolve/main/mel_band_roformer_4stems_large_ver1.ckpt",
+      "save_as": "mel_band_roformer_4stems_large_ver1.ckpt"
+    }
+  },
+  "4STEMS-SCNet_XL_MUSDB18 (by ZFTurbo)": {
+    "model_type": "scnet",
+    "config": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.13/config_musdb18_scnet_xl.yaml",
+      "save_as": "config_musdb18_scnet_xl.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.13/model_scnet_ep_54_sdr_9.8051.ckpt",
+      "save_as": "model_scnet_ep_54_sdr_9.8051.ckpt"
+    }
+  },
+  "4STEMS-SCNet_Large (by starrytong)": {
+    "model_type": "scnet",
+    "config": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.9/config_musdb18_scnet_large_starrytong.yaml",
+      "save_as": "config_musdb18_scnet_large_starrytong.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.9/SCNet-large_starrytong_fixed.ckpt",
+      "save_as": "SCNet-large_starrytong_fixed.ckpt"
+    }
+  },
+  "4STEMS-SCNet_MUSDB18 (by starrytong)": {
+    "model_type": "scnet",
+    "config": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.6/config_musdb18_scnet.yaml",
+      "save_as": "config_musdb18_scnet.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.6/scnet_checkpoint_musdb18.ckpt",
+      "save_as": "scnet_checkpoint_musdb18.ckpt"
+    }
+  },
+  "4STEMS-BS-Roformer_MUSDB18 (by ZFTurbo)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.12/config_bs_roformer_384_8_2_485100.yaml",
+      "save_as": "config_bs_roformer_384_8_2_485100.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.12/model_bs_roformer_ep_17_sdr_9.6568.ckpt",
+      "save_as": "model_bs_roformer_ep_17_sdr_9.6568.ckpt"
+    }
+  },
+  "CROWD-REMOVAL-MelBand-Roformer (by aufr33)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.4/model_mel_band_roformer_crowd.yaml",
+      "save_as": "model_mel_band_roformer_crowd.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.4/mel_band_roformer_crowd_aufr33_viperx_sdr_8.7144.ckpt",
+      "save_as": "mel_band_roformer_crowd_aufr33_viperx_sdr_8.7144.ckpt"
+    }
+  },
+  "CINEMATIC-BandIt_Plus (by kwatcharasupat)": {
+    "model_type": "bandit",
+    "config": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.3/config_dnr_bandit_bsrnn_multi_mus64.yaml",
+      "save_as": "config_dnr_bandit_bsrnn_multi_mus64.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.3/model_bandit_plus_dnr_sdr_11.47.chpt",
+      "save_as": "model_bandit_plus_dnr_sdr_11.47.chpt"
+    }
+  },
+  "CINEMATIC-BandIt_v2 multi (by kwatcharasupat)": {
+    "model_type": "bandit_v2",
+    "config": {
+      "url": "https://raw.githubusercontent.com/ZFTurbo/Music-Source-Separation-Training/refs/heads/main/configs/config_dnr_bandit_v2_mus64.yaml",
+      "save_as": "config_dnr_bandit_v2_mus64.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/banditv2_state_dicts_only/resolve/main/checkpoint-multi_state_dict.ckpt",
+      "save_as": "checkpoint-multi_state_dict.ckpt"
+    }
+  },
+  "DRUMSEP-MDX23C_DrumSep_5stem_new (by jarredou)": {
+    "model_type": "mdx23c",
+    "config": {
+      "url": "https://github.com/jarredou/models/releases/download/DrumSep/config_mdx23c.yaml",
+      "save_as": "config_mdx23c_drumsep.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/jarredou/models/releases/download/DrumSep/drumsep_5stems_mdx23c_jarredou.ckpt",
+      "save_as": "drumsep_5stems_mdx23c_jarredou.ckpt"
+    }
+  },
+  "DRUMSEP-MDX23C_DrumSep_6stem (by aufr33 & jarredou)": {
+    "model_type": "mdx23c",
+    "config": {
+      "url": "https://github.com/jarredou/models/releases/download/aufr33-jarredou_MDX23C_DrumSep_model_v0.1/aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.yaml",
+      "save_as": "aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/jarredou/models/releases/download/aufr33-jarredou_MDX23C_DrumSep_model_v0.1/aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt",
+      "save_as": "aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt"
+    }
+  },
+  "DE-REVERB-MDX23C (by aufr33 & jarredou)": {
+    "model_type": "mdx23c",
+    "config": {
+      "url": "https://huggingface.co/jarredou/aufr33_jarredou_MDXv3_DeReverb/resolve/main/config_dereverb_mdx23c.yaml",
+      "save_as": "config_dereverb_mdx23c.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/aufr33_jarredou_MDXv3_DeReverb/resolve/main/dereverb_mdx23c_sdr_6.9096.ckpt",
+      "save_as": "dereverb_mdx23c_sdr_6.9096.ckpt"
+    }
+  },
+  "DE-REVERB-MelBand-Roformer aggr./v2/19.1729 (by anvuew)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/anvuew/dereverb_mel_band_roformer/resolve/main/dereverb_mel_band_roformer_anvuew.yaml",
+      "save_as": "dereverb_mel_band_roformer_anvuew.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/anvuew/dereverb_mel_band_roformer/resolve/main/dereverb_mel_band_roformer_anvuew_sdr_19.1729.ckpt",
+      "save_as": "dereverb_mel_band_roformer_anvuew_sdr_19.1729.ckpt"
+    }
+  },
+  "DE-REVERB-BS-Roformer dereverb_room mono (by anvuew)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/anvuew/dereverb_room/resolve/main/dereverb_room_anvuew.yaml",
+      "save_as": "dereverb_room_anvuew.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/anvuew/dereverb_room/resolve/main/dereverb_room_anvuew_sdr_13.7432.ckpt",
+      "save_as": "dereverb_room_anvuew_sdr_13.7432.ckpt"
+    }
+  },
+  "DE-REVERB-MelBand-Roformer mono 20.4029 (by anvuew)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/anvuew/dereverb_mel_band_roformer/resolve/main/dereverb_mel_band_roformer_anvuew.yaml",
+      "save_as": "dereverb_mel_band_roformer_anvuew.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/anvuew/dereverb_mel_band_roformer/resolve/main/dereverb_mel_band_roformer_mono_anvuew_sdr_20.4029.ckpt",
+      "save_as": "dereverb_mel_band_roformer_mono_anvuew_sdr_20.4029.ckpt"
+    }
+  },
+  "DE-REVERB-Echo-MelBand-Roformer (by Sucial)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/Sucial/Dereverb-Echo_Mel_Band_Roformer/resolve/main/config_dereverb-echo_mel_band_roformer.yaml",
+      "save_as": "config_dereverb-echo_mel_band_roformer.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/Sucial/Dereverb-Echo_Mel_Band_Roformer/resolve/main/dereverb-echo_mel_band_roformer_sdr_10.0169.ckpt",
+      "save_as": "dereverb-echo_mel_band_roformer_sdr_10.0169.ckpt"
+    }
+  },
+  "LEAD-VOCAL-DE-REVERB-MelBand-Roformer (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/karaoke/karaokegabox_1750911344.yaml",
+      "save_as": "karaokegabox_1750911344.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/experimental/Lead_VocalDereverb.ckpt",
+      "save_as": "Lead_VocalDereverb.ckpt"
+    }
+  },
+  "DENOISE-MelBand-Roformer-1 (by aufr33)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/jarredou/aufr33_MelBand_Denoise/resolve/main/model_mel_band_roformer_denoise.yaml",
+      "save_as": "model_mel_band_roformer_denoise.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/aufr33_MelBand_Denoise/resolve/main/denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt",
+      "save_as": "denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt"
+    }
+  },
+  "DENOISE-MelBand-Roformer-2 (by aufr33)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/jarredou/aufr33_MelBand_Denoise/resolve/main/model_mel_band_roformer_denoise.yaml",
+      "save_as": "model_mel_band_roformer_denoise.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/aufr33_MelBand_Denoise/resolve/main/denoise_mel_band_roformer_aufr33_aggr_sdr_27.9768.ckpt",
+      "save_as": "denoise_mel_band_roformer_aufr33_aggr_sdr_27.9768.ckpt"
+    }
+  },
+  "DEBLEED-MelBand-Roformer (by unwa/97chris)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/jarredou/bleed_suppressor_melband_rofo_by_unwa_97chris/resolve/main/config_bleed_suppressor_v1.yaml",
+      "save_as": "config_bleed_suppressor_v1.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/bleed_suppressor_melband_rofo_by_unwa_97chris/resolve/main/bleed_suppressor_v1.ckpt",
+      "save_as": "bleed_suppressor_v1.ckpt"
+    }
+  },
+  "DENOISE-DEBLEED-MelBand-Roformer (by Gabox)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/inst_gabox.yaml",
+      "save_as": "inst_gabox.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/GaboxR67/MelBandRoformers/resolve/main/melbandroformers/instrumental/denoisedebleed.ckpt",
+      "save_as": "denoisedebleed.ckpt"
+    }
+  },
+  "VOCALS-Male Female-BS-RoFormer Male Female Beta 7_2889 (by aufr33)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/Sucial/Chorus_Male_Female_BS_Roformer/resolve/main/config_chorus_male_female_bs_roformer.yaml",
+      "save_as": "config_chorus_male_female_bs_roformer.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/RareSirMix/AIModelRehosting/resolve/main/bs_roformer_male_female_by_aufr33_sdr_7.2889.ckpt",
+      "save_as": "bs_roformer_male_female_by_aufr33_sdr_7.2889.ckpt"
+    }
+  },
+  "PHANTOM-CENTER-HTDemucs (by wesleyr36)": {
+    "model_type": "htdemucs",
+    "config": {
+      "url": "https://huggingface.co/jarredou/HTDemucs_Similarity_Extractor_by_wesleyr36/resolve/main/config_htdemucs_similarity.yaml",
+      "save_as": "config_htdemucs_similarity.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/jarredou/HTDemucs_Similarity_Extractor_by_wesleyr36/resolve/main/model_htdemucs_ep_21_sdr_13.6970.ckpt",
+      "save_as": "model_htdemucs_ep_21_sdr_13.6970.ckpt"
+    }
+  },
+  "GUITAR-MelBand-Roformer (by becruily)": {
+    "model_type": "mel_band_roformer",
+    "config": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-guitar/resolve/main/config_guitar_becruily.yaml",
+      "save_as": "config_guitar_becruily.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/becruily/mel-band-roformer-guitar/resolve/main/becruily_guitar.ckpt",
+      "save_as": "becruily_guitar.ckpt"
+    }
+  }
+}
