@@ -10,6 +10,17 @@
       "save_as": "MelBandRoformer.ckpt"
     }
   },
+  "VOCALS-PoPE-Former (by ZFTurbo)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.20/model_bs_polarformer_float16.yaml",
+      "save_as": "model_bs_polarformer_float16.yaml"
+    },
+    "checkpoint": {
+      "url": "https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.20/model_bs_polarformer_float16.ckpt",
+      "save_as": "model_bs_polarformer_float16.ckpt"
+    }
+  },
   "VOCALS-MelBand-Roformer (by Becruily)": {
     "model_type": "mel_band_roformer",
     "config": {
